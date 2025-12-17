@@ -1,0 +1,11 @@
+A001|2025-09-24|09:00:00|fever|30.0|paid|completed|excellent service|5|C003|D001|S001
+A002|2025-09-27|11:00:00|normal fever|30.0|paid|completed|good service|4|C001|D001|null
+A003|2025-09-27|09:00:00|-|200.0|unpaid|completed|-|0|C003|D001|S001
+A004|2025-09-28|09:00:00|heart attack|200.0|paid|completed|poor service|1|C001|D001|null
+A005|2025-10-08|14:00:00|cancer|2000.0|paid|completed|perfect service|5|C001|D001|S001
+A006|2025-10-07|10:00:00|fever|50.0|paid|cancel|-|0|C001|D001|S001
+A007|2025-10-08|10:00:00|canser|200.0|paid|completed|-|0|C002|D001|S001
+A008|2025-10-08|14:00:00|-|0.0|unpaid|cancel|-|0|C001|D002|S001
+A009|2025-10-08|09:00:00|-|0.0|unpaid|booked|-|0|C001|D002|null
+A010|2025-10-08|10:00:00|-|0.0|unpaid|booked|-|0|C001|D002|null
+A011|2025-10-09|10:00:00|-|0.0|unpaid|booked|-|0|C001|D001|S001

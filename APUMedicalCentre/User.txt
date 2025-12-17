@@ -1,0 +1,8 @@
+lihong@gmail.com|Staff111!|lihong|Male|0138628948|20|S001|10000.0|New Admin|Staff
+nic@gmail.com|Nic123!@|Nicholas|Male|0198339293|32|S002|5000.0|administrator|Staff
+mohammed@gmail.com|Doctor111!|mohammed|Male|60149349375|30|D001|10000.0|Oncologist|Doctor
+ali@gmail.com|Ali@123!|ali|Male|0192837492|22|D002|5000.0|general|Doctor
+abu@gmail.com|Abu123!#|Abu|Female|0192839284|23|D003|10000.0|Cardiologies|Doctor
+ammar@gmail.com|Manager111!|ammar|Male|0193829303|30|M001|10000.0|General Manager|Manager
+nicole@gmail.com|Nicole!231|Nicole|Female|0193894039|26|M002|15000.0|Human Resource|Manager
+moh@gmail.com|Aa1234567@|moh|Male|0123456789|20|M003|2004.0|ggg|Manager

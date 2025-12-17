@@ -1,0 +1,15 @@
+P001|20.0|Cash|Appointment Fees|S001|A001
+P002|30.0|Debit Card|Consultation Fees|S001|A001
+P003|20.0|QR|Appointment Fees|S001|A003
+P004|20.0|QR|Appointment Fees|S001|A004
+P005|20.0|QR|Appointment Fees|S001|A002
+P006|30.0|QR|Consultation Fees|S001|A002
+P007|200.0|Cash|Consultation Fees|S001|A004
+P008|20.0|QR|Appointment Fees|S001|A005
+P009|20.0|Cash|Appointment Fees|S001|A006
+P010|50.0|Debit Card|Consultation Fees|S001|A006
+P011|20.0|Cash|Appointment Fees|S001|A007
+P012|20.0|Cash|Appointment Fees|S001|A008
+P013|2000.0|Credit Card|Consultation Fees|S001|A005
+P014|20.0|Debit Card|Appointment Fees|S001|A011
+P015|200.0|Credit Card|Consultation Fees|S001|A007
